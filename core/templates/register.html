@@ -1,0 +1,6 @@
+<h2>register</h2>
+<form method="POST" action="">
+		{% csrf_token %}
+		{{form.as_p}}
+		<input class="btn btn-info" type="submit" name="Create User" >
+	</form>
