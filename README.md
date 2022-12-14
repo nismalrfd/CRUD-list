@@ -1,10 +1,9 @@
 # Todo App
 
-To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality.
+CRUD operations
+To Do list app ,Create Read Update and DELETE functionality.
+
 ## Screenshots
-
-![App Screenshot](https://github.com/nismalrfd/todo_list_with_userauthentication/blob/main/Screenshorts/todo%201.JPG?raw=true)
-
-![App Screenshot](https://github.com/nismalrfd/todo_list_with_userauthentication/blob/main/Screenshorts/2.JPG)
-![App Screenshot](https://github.com/nismalrfd/todo_list_with_userauthentication/blob/main/Screenshorts/3.JPG)
-![App Screenshot](https://github.com/nismalrfd/todo_list_with_userauthentication/blob/main/Screenshorts/4.JPG)
+![cr5](https://user-images.githubusercontent.com/110675248/207617641-92d70131-9017-4dd9-a0f5-4f800aaeac32.JPG)
+![cr4](https://user-images.githubusercontent.com/110675248/207617656-ede7dee9-0687-4077-8a75-b8848bac0096.JPG)
+![cr3](https://user-images.githubusercontent.com/110675248/207617715-67854648-1a51-4699-bad9-ab541c044a49.JPG)
